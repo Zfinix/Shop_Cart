@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-A Flutter Implementation of a UI/UX Design using Provider State Management in  https://www.uplabs.com/posts/matta-material-design-mobile-ui-kit 
+A Flutter Implementation of a UI/UX Design using Provider State Management in  https://www.instagram.com/p/B1GOX1hAwq0/
 
 ## Getting Started
 
