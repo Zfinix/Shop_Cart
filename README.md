@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
+A Flutter Implementation of a UI/UX Design using Provider State Management in  https://www.uplabs.com/posts/matta-material-design-mobile-ui-kit 
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A few screenshots:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot1.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot3.png" width="250" />
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot4.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot5.png" width="250" />
+  <img src="https://raw.githubusercontent.com/Zfinix/Shop_Cart/master/screenshot/shot6.png" width="250" />
+</p>
